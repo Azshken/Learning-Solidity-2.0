@@ -7,7 +7,7 @@ Predispositions:
 
 Motivation: I have a DeFi project in my mind/paper that I'd like to realize. Leter get employed and be a full time developer.
 
-##This document will serve as my track record of my learning process (LOG).
+## This document will serve as my track record of my learning process (LOG).
 25/02/2025 It begins.
 - I've registered in Cyfrin Updraft and begun Solidity101 course. I'm currently @ Section_1-7.Functions
 - I've joined Cyfrin Discord
