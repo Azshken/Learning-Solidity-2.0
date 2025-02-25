@@ -6,8 +6,9 @@ Predispositions:
 - Finished [BuidlGuidl](https://buidlguidl.com/) speedrun Ethereum. 1 and 1/2 year ago - I've forgot everything
 
 Motivation: I have a DeFi project in my mind/paper that I'd like to realize. Leter get employed and be a full time developer.
+The plan: relearn 1) Solidity basics. 2) VS code project dependecies installation and project inicialization. 3) Begin coding small parts (learn Uniswap, Bancor). 
 
 ## This document will serve as my track record of my learning process (LOG).
 25/02/2025 It begins.
-- I've registered in Cyfrin Updraft and begun [Solidity101 course](https://updraft.cyfrin.io/courses/solidity/simple-storage/solidity-arrays-and-structs). I'm currently @ Section_1-7.Functions
+- I've registered in Cyfrin Updraft and begun [Solidity101 course](https://updraft.cyfrin.io/courses/solidity/simple-storage/solidity-arrays-and-structs). I've completed Section_1-7.Functions
 - I've joined Cyfrin Discord
