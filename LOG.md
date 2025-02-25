@@ -14,5 +14,5 @@ The plan:
 
 ## This document will serve as my track record of my learning process (LOG).
 25/02/2025 It begins.
-- I've registered in Cyfrin Updraft and begun [Solidity101 course](https://updraft.cyfrin.io/courses/solidity/simple-storage/solidity-arrays-and-structs). I've completed Section_1-7.Functions
+- I've registered in Cyfrin Updraft and begun [Solidity101 course](https://updraft.cyfrin.io/courses/solidity/simple-storage/solidity-arrays-and-structs). I've completed Section_1.
 - I've joined Cyfrin Discord
