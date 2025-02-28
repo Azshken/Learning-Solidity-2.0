@@ -21,9 +21,11 @@ The plan:
 26/02/2025
   - I've completed section_2 and ended with section_3 6.quiz
   - I've used grok to brainstorm an EV charging payment app
+
 27/02/2025
   - I've finished the the Cyfrin Solidity101
   - Updated nvm(0.40.1), Node (v22.14.0)
   - Going through the HardHat initialization
+
 28/02/2025
   - Dabbing into the foundry101 course on Cyfrin updraft to familirize and know the difference between Hardhat and foundry
