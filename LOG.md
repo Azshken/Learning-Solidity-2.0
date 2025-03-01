@@ -17,4 +17,4 @@
   - I've read through HardHat documentation
 
 01/03/2025
-  - I've set up Metamask, spun up hh node and imported 3 accounts into Metamask
+  - I've set up Metamask (hh localhost), spun up hh node and imported 3 accounts into Metamask
