@@ -13,4 +13,8 @@
   - Going through the HardHat project initialization
 
 28/02/2025
-  - Dabbing into the foundry101 course on Cyfrin updraft to familirize and know the difference between Hardhat and Foundry
+  - I'm Dabbling into the foundry101 course on Cyfrin updraft to familirize and know the difference between Hardhat and Foundry
+  - I've read through HardHat documentation
+
+01/03/2025
+  - I've set up Metamask, spun up hh node and imported 3 accounts into Metamask
