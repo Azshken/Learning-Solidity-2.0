@@ -18,3 +18,4 @@
 
 01/03/2025
   - I've set up Metamask (hh localhost), spun up hh node and imported 3 accounts into Metamask
+  - I've set the Sepolia network in the project and a throw away account with 0.5 sepolia ETH
