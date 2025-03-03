@@ -20,3 +20,17 @@
   - I've set up Metamask (hh localhost), spun up hh node and imported 3 accounts into Metamask
   - I've set the Sepolia network in the project and a throw away account with 0.5 sepolia ETH
   - Building confidence: I'm going through the JavaScript and Solidity training at Alchemy university
+02/03/2025
+  -  I've practiced JavaScript problems on Alchemy university, used Grok and MDM documentation for help
+      -> I've realized that I know the basics and need to begin to solve simple problems/create simple smart contracts and deploy them
+     
+### I've written up some dApp Ideas:
+1) EV charger app
+2) Automatic liquidity removal and creation of a new range (wstETH/ETH) [No IL, stable APR from trading and staking]
+3) NFT representing a digital media (rights to download a videogame, movie, music)
+4) Single sided AMM (big project)
+
+TO DO (big project)
+- Uniswap v2 AMM -> v3 after understanding v2 codebase -> Bancor v2 and v3 to understand how they solved the pool token minting (elastic token supply)
+- Isolated AAVE lending
+
