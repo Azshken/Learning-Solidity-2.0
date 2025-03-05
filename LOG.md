@@ -34,3 +34,6 @@ TO DO (big project)
 - Uniswap v2 AMM -> v3 after understanding v2 codebase -> Bancor v2 and v3 to understand how they solved the pool token minting (elastic token supply)
 - Isolated AAVE lending
 
+05/03/2025
+- I've finished smart contract DevOps on Cyfrin
+- 
