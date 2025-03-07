@@ -36,4 +36,6 @@ TO DO (big project)
 
 05/03/2025
 - I've finished smart contract DevOps on Cyfrin
-- 
+
+07/03/2025
+  - reruning speedrun ethereum (ScaffoldETH)
