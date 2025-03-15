@@ -39,3 +39,8 @@ TO DO (big project)
 
 07/03/2025
   - reruning speedrun ethereum (ScaffoldETH)
+
+15/03/2025
+  - I'm learning Foundry and checking out the Curve, Uniswap courses on cyfrin updraft
+  - I'm getting familiar with the Curve and Uniswap codebases and how they've solved the AMMs
+  - I'm learning how to separate different parts of the dApp
