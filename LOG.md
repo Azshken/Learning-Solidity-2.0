@@ -44,3 +44,6 @@ TO DO (big project)
   - I'm learning Foundry and checking out the Curve, Uniswap courses on cyfrin updraft
   - I'm getting familiar with the Curve and Uniswap codebases and how they've solved the AMMs
   - I'm learning how to separate different parts of the dApp
+
+17/03/2025
+  - I've finished the CurveV1 on cyfrin 
