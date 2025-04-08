@@ -46,4 +46,9 @@ TO DO (big project)
   - I'm learning how to separate different parts of the dApp
 
 17/03/2025
-  - I've finished the CurveV1 on cyfrin 
+  - I've finished the CurveV1 on cyfrin
+
+08/04/2025
+  - I've been focusing on RegenFundDAO;
+  - reading on ERC20 and EIPs extending the ERC20 standard;
+  - going through the Uniswap v2 protocol on Cyfrin
