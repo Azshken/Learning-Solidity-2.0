@@ -52,3 +52,6 @@ TO DO (big project)
   - I've been focusing on RegenFundDAO;
   - reading on ERC20 and EIPs extending the ERC20 standard;
   - going through the Uniswap v2 protocol on Cyfrin
+
+16/04/2025
+  - I've attended the 3day Chainlink bootcamp livestreams on youtube ((d1)[https://www.youtube.com/watch?v=qiWGX7SFVd8], (d2)[https://www.youtube.com/watch?v=pSQshTMz_MQ], (d3)[https://www.youtube.com/watch?v=hxFydEiYDh4]).
