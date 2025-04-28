@@ -57,4 +57,4 @@ TO DO (big project)
   - I've attended the 3day Chainlink bootcamp livestreams on youtube ([d1](https://www.youtube.com/watch?v=qiWGX7SFVd8), [d2](https://www.youtube.com/watch?v=pSQshTMz_MQ), [d3](https://www.youtube.com/watch?v=hxFydEiYDh4)) and created a crossChain token.
 
 28/04/2025
-  - I'm reading through the Bancor Network contract on github ([v2.1](https://github.com/bancorprotocol/contracts-solidity), [v3](https://github.com/bancorprotocol/contracts-v3/tree/dev)) elastic anchor token liquidity (single token deposits)
+  - I'm reading through the Bancor Network contracts on github ([v2.1](https://github.com/bancorprotocol/contracts-solidity), [v3](https://github.com/bancorprotocol/contracts-v3/tree/dev)). Elastic anchor token liquidity (single token deposits), protocol mints anchor token at liquidity deposits.
