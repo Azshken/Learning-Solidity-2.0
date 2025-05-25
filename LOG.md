@@ -60,4 +60,4 @@ TO DO (big project)
   - I'm reading through the Bancor Network contracts on github ([v2.1](https://github.com/bancorprotocol/contracts-solidity), [v3](https://github.com/bancorprotocol/contracts-v3/tree/dev)). Elastic anchor token liquidity (single token deposits), protocol mints anchor token at liquidity deposits.
 
 25/05/2025
-  - Tutorial hell is from irregularity and taking long breaks after which you forget everything and start with a tutorial again. I've tried to avoid the tutorial hell and start making projects, but there was a huge gap in knowledge that caused me to slack off. I'll continue to do ALL tutorials DAILY until it's become a second nature.
+  - Tutorial hell is from irregularity and taking long breaks after which you forget everything and start with a tutorial again. I've tried to avoid the tutorial hell and start making projects, but there was a huge gap in knowledge that caused me to slack off. I'll continue to do ALL tutorials DAILY until it's become a second nature. I'll be strictly rewriting them in VScode.
