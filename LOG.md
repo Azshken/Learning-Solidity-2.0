@@ -61,3 +61,6 @@ TO DO (big project)
 
 25/05/2025
   - Tutorial hell is from irregularity and taking long breaks after which you forget everything and start with a tutorial again. I've tried to avoid the tutorial hell and start making projects, but there was a huge gap in knowledge that caused me to slack off. I'll continue to do ALL tutorials DAILY until it's become a second nature. I'll be strictly rewriting them in VScode.
+
+24/06/2025
+  - I've finished the Foundry Fundamentals section 3 on updraft.Cyfrin.io
