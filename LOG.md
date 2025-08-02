@@ -64,3 +64,8 @@ TO DO (big project)
 
 24/06/2025
   - I've finished the Foundry Fundamentals section 3 on updraft.Cyfrin.io
+
+02/08/2025
+  - 01/07 I've began to work and tried to code after work, but I was too physically and mentally exhausted
+  - 29/07 I've quit the job and hopped back into Cyfrin updraft
+  - My plan: Learn, practice and create until I get so good that I cannot be ignored.
