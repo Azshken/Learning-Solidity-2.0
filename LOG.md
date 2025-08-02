@@ -67,5 +67,5 @@ TO DO (big project)
 
 02/08/2025
   - 01/07 I've began to work and tried to code after work, but I was too physically and mentally exhausted
-  - 29/07 I've quit the job and hopped back into Cyfrin updraft
+  - 29/07 I've quit the job and hopped back into Cyfrin updraft [fullstack web3 dev](https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course)
   - My plan: Learn, practice and create until I get so good that I cannot be ignored.
