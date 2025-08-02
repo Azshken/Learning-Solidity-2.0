@@ -69,3 +69,9 @@ TO DO (big project)
   - 01/07 I've began to work and tried to code after work, but I was too physically and mentally exhausted
   - 29/07 I've quit the job and hopped back into Cyfrin updraft [fullstack web3 dev](https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course)
   - My plan: Learn, practice and create until I get so good that I cannot be ignored.
+
+TO DO:
+- Finish up the intermediate courses Foundry fundamentals (82%), fullstack web3 dev (45%)
+- Release and pool SPARK token; work on the S-PARK website (token integration) connect to wallet + token utility (fundraise)
+- Continue with the Advanced courses:
+    Advanced Foundry; Smart Contract Security; Curve Cryptoswap (39%); Curve StableSwap; Uniswap V2 (88%); Uniswap V3; Advanced Web3 Wallet Security
