@@ -76,5 +76,5 @@ TO DO:
 - Continue with the Advanced courses:
     Advanced Foundry; Smart Contract Security; Curve Cryptoswap (39%); Curve StableSwap; Uniswap V2 (88%); Uniswap V3; Advanced Web3 Wallet Security
 
-  29/08/25
-  - I'm stuck with MetaMask doesn't connect/find Anvil chain sometimes it works sometimes not. I'm really thinking about testing in prod.
+29/08/25
+- I'm stuck with MetaMask doesn't connect/find Anvil chain sometimes it works sometimes not. I'm really thinking about testing in prod.
