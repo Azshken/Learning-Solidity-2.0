@@ -78,3 +78,8 @@ TO DO:
 
 29/08/25
 - I'm stuck with MetaMask doesn't connect/find Anvil local chain sometimes it works sometimes not. I'm really thinking about testing in prod.
+
+04/09/25
+- I've commited the TSender webApp and finished the section 3 in the cyfrin fullstack web3 dev. It took longer then I thought (react, rainbowkit, wagmi, playwright, synpress, fleek) after viem and html from section2.
+- Deployment on fleek is basically few clicks (linking with github acc and deploy). I've deployed with Vercel before. I'll skip this step.
+- I  hate developing react webApps on a laptop, it takes a lifetime to build it, run it and debug it. I have an ASUS Zenbook (upper midtier notebook) and it's a pain. -> stark contrast to foundry smart contract development.
