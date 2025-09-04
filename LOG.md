@@ -71,7 +71,7 @@ TO DO (big project)
   - My plan: Learn, practice and create until I get so good that I cannot be ignored.
 
 TO DO:
-- Finish up the intermediate courses Foundry fundamentals (82%), fullstack web3 dev (66%)
+- Finish up the intermediate courses Foundry fundamentals (82%), fullstack web3 dev (77%)
 - Release and pool SPARK token ([RegenfunDAO](https://medium.com/@regenfunddao/introduction-680911cf9342)); work on the S-PARK website (token integration) connect to wallet + token utility (fundraise)
 - Continue with the Advanced courses:
     Advanced Foundry; Smart Contract Security; Curve Cryptoswap (39%); Curve StableSwap; Uniswap V2 (88%); Uniswap V3; Advanced Web3 Wallet Security
