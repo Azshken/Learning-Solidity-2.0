@@ -72,9 +72,9 @@ TO DO (big project)
 
 TO DO:
 - Finish up the intermediate courses Foundry fundamentals (82%), fullstack web3 dev (77%)
-- Release and pool SPARK token ([RegenfunDAO](https://medium.com/@regenfunddao/introduction-680911cf9342)); work on the S-PARK website (token integration) connect to wallet + token utility (fundraise)
+- Release and pool SP (S-PARK) token ([RegenfunDAO](https://medium.com/@regenfunddao/introduction-680911cf9342)); work on the S-PARK website (token integration) connect to wallet + token utility (fundraise) [Learning Fullstack web3 development]
 - Continue with the Advanced courses:
-    Advanced Foundry; Smart Contract Security; Curve Cryptoswap (39%); Curve StableSwap; Uniswap V2 (88%); Uniswap V3; Advanced Web3 Wallet Security
+    Advanced Foundry (0%); Smart Contract Security (0%); Curve Cryptoswap (39%); Curve StableSwap (0%); Uniswap V2 (88%); Uniswap V3 (0%); Advanced Web3 Wallet Security (0%)
 
 29/08/25
 - I'm stuck with MetaMask doesn't connect/find Anvil local chain sometimes it works sometimes not. I'm really thinking about testing in prod.
