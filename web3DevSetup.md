@@ -45,8 +45,8 @@ pnpm create next-app@latest
 ```
 pnpm add @rainbow-me/rainbowkit wagmi viem@2.x @tanstack/react-query
 ```
-- Configure MetaMask (RPC url etc.)
-- Get ProjectId from cloud.reown.com to have an access to the walletConnect (different wallet conectivity)
+- Configure MetaMask (Install, Seed, RPC url etc.)
+- Get ProjectId from cloud.reown.com to have an access to the walletConnect (allows to connect with different wallets)
 
 ### Testing (End-to-End)
 > Playwright
