@@ -6,8 +6,9 @@
     - Prettier
     - Solidity (Juan Blanco) extension
 
-# Command line
+#Command line
 4) Instal Node.js (nvm)
+
 ```
   # Download and install nvm:
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
