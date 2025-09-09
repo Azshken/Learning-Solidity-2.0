@@ -45,17 +45,33 @@ pnpm create next-app@latest
 ```
 pnpm add @rainbow-me/rainbowkit wagmi viem@2.x @tanstack/react-query
 ```
+- Configure MetaMask (RPC url etc.)
+- Get ProjectId from cloud.reown.com to have an access to the walletConnect (different wallet conectivity)
 
-React uses tsx (react components) and it automatically takes care of ts to js compilation
-> initialize typescript
+### Testing (End-to-End)
+> Playwright
+```
+pnpm add -D @synthetixio/synpress
+pnpm create playwright@latest
+pnpm exec playwright test -ui
+```
+> Synpress
+```
+pnpm synpress
+```
+## The End
+
+React uses tsx (react components) and it automatically takes care of TS to JS compilation. The following is no longer required.
+
+> Initialize typescript (React uses TS natively)
 ```
 pnpm add typescript
 ```
-> add viem
+> Add viem (runs under the hood)
 ```
-pnpm add viem [Don't need to install!]
+pnpm add viem
 ```
-> Bundler for tsx to js compilation
+> Bundler for tsx to js compilation (React takes care of this)
 ```
 pnpm add vite
 ```
