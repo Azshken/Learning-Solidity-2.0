@@ -83,3 +83,6 @@ TO DO:
 - I've commited the TSender webApp and finished the section 3 in the cyfrin fullstack web3 dev. It took longer then I thought (react, rainbowkit, wagmi, playwright, synpress, fleek) after viem and html from section2.
 - Deployment on fleek is basically few clicks (linking with github acc and deploy). I've deployed with Vercel before. I'll skip this step.
 - I  hate developing react webApps on a laptop, it takes a lifetime to build it, run it and debug it. I have an ASUS Zenbook (upper midtier notebook) and it's a pain. -> stark contrast to foundry smart contract development.
+
+18/09/25
+- I've began to refactor the Bancor V3 protocol to fit my vision. I'm creating a new branch where I'll be logging my progress on the project.
