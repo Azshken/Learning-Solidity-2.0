@@ -89,4 +89,4 @@ TO DO:
 
 25/10/25
 - To continue working through the Bancor smart contracts I need to understand the upgradeable smart contracts.
-- I've dived into proxy upgrade patterns (@openzeppelin). Proxies use low level delegaate calls (EVM assemly) - I find it important to understand how it works to avoid any security holes that can use assembly to exploit the smart contract logic.
+- I've dived into proxy upgrade patterns (@openzeppelin). Proxies use low level delegaate calls (EVM assemly) - I find it important to understand how it works to avoid any security holes that can use assembly to exploit the smart contract logic. Anybody can through the delegatecalls access the Proxy contract's storage and overwrite it. It must be used carefully!
