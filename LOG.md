@@ -86,3 +86,7 @@ TO DO:
 
 18/09/25
 - I've began to refactor the Bancor V3 protocol to fit my vision. I'm creating a new branch where I'll be logging my progress on the project.
+
+25/10/25
+- To continue working through the Bancor smart contracts I need to understand the upgradeable smart contracts.
+- I've dived into proxy upgrade patterns (@openzeppelin). Proxies use low level delegaate calls (EVM assemly) - I find it important to understand how it works to avoid any security holes that can use assembly to exploit the smart contract logic.
