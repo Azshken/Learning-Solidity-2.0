@@ -90,3 +90,8 @@ TO DO:
 25/10/25
 - To continue working through the Bancor smart contracts I need to understand the upgradeable smart contracts.
 - I've dived into proxy upgrade patterns (@openzeppelin). Proxies use low level delegaate calls (EVM assemly) - I find it important to understand how it works to avoid any security holes that can use assembly to exploit the smart contract logic. Anybody can through the delegatecalls access the Proxy contract's storage and overwrite it. It must be used carefully!
+
+08/02/26
+- Revised Bancor protocol seams to be a huge project for me. I've started NFTGames project. I've vibe coded the SoulboundNFT contract on 06/02/26. 07/02/26 set up the deployment on foundry; spun up a wallet; found a testnet with UDST&USDC (Sepolia Arbitrum); I've got some testnet ETH through Alchemy.
+- 08/02/26 I'm migrating to desktop PC because the laptop will be slow with Scaffold-ETH-2 (react front end) running.
+- I'm creating a new Github repo NFTGames where I'll continue logging and developing the project.
