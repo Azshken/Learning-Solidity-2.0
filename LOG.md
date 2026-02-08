@@ -94,4 +94,4 @@ TO DO:
 08/02/26
 - Revised Bancor protocol seams to be a huge project for me. I've started NFTGames project. I've vibe coded the SoulboundNFT contract on 06/02/26. 07/02/26 set up the deployment on foundry; spun up a wallet; found a testnet with UDST&USDC (Sepolia Arbitrum); I've got some testnet ETH through Alchemy.
 - 08/02/26 I'm migrating to desktop PC because the laptop will be slow with Scaffold-ETH-2 (react front end) running.
-- I'm creating a new Github repo NFTGames where I'll continue logging and developing the project.
+- I'm creating a new Github repo NFTGames where I'll continue logging and developing the project -- I'm using foundry for smart contract development/testing. Scaffold-ETH-2 as frontend for fast iterations and testing. Vercel as a hosting service with PostgreSQL as a database.
